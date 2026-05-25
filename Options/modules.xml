@@ -51,5 +51,6 @@
 <Script file="modules\indicators\IndicatorTooltip.lua"/>
 <Script file="modules\indicators\IndicatorPortrait.lua"/>
 <Script file="modules\indicators\IndicatorPrivateAuras.lua"/>
+<Script file="modules\indicators\IndicatorPrivateAurasPreviewHook.lua"/>
 
 </Ui>
